@@ -39,8 +39,7 @@ class Homescreen extends StatelessWidget{
                   Container(
                     height:30.0
                   ),
-                  Padding (
-                    padding: EdgeInsets.all(20.0),
+                  Padding (padding: EdgeInsets.all(20.0),
                     child: RaisedButton(
                       padding: EdgeInsets.all(10),
                       child: Text(
